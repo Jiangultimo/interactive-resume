@@ -11,7 +11,6 @@ intros = [
     { label = "GitHub", value = "Jiangultimo", icon = "Github", link = "https://github.com/Jiangultimo" },
     { label = "现居地", value = "重庆", icon = "MapPin" },
     { label = "时区", value = "UTC+8 (北京时间)", icon = "Clock" },
-    { label = "求职意向", value = "全栈工程师", icon = "Target" },
     { label = "期望合作方式", value = "全职 / 远程优先", icon = "Handshake" },
     { label = "", value = "9年开发经验 | 全栈工程师 | 曾任AI创业公司技术负责人 | 擅长AI产品落地与团队管理", icon = "Briefcase" },
     { label = "", value = "互动式在线简历：https://hi.sparkify.me - 配备AI助手，快速了解我的项目经验与技术栈", link = "https://hi.sparkify.me", icon = "Link" },

@@ -11,7 +11,6 @@ intros = [
     { label = "GitHub", value = "Jiangultimo", icon = "Github", link = "https://github.com/Jiangultimo" },
     { label = "Location", value = "Chongqing, China", icon = "MapPin" },
     { label = "Timezone", value = "UTC+8 (Beijing Time)", icon = "Clock" },
-    { label = "Target Role", value = "Full-Stack Developer", icon = "Target" },
     { label = "Work Mode", value = "Full-time / Remote-first", icon = "Handshake" },
     { label = "", value = "9 years of development experience | Full-Stack Engineer | Former Tech Lead at AI startup | Expert in AI product delivery & team management", icon = "Briefcase" },
     { label = "", value = "Interactive resume: https://hi.sparkify.me - AI assistant available to explore my projects and tech stack", link = "https://hi.sparkify.me", icon = "Link" }
